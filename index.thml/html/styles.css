@@ -1,0 +1,305 @@
+<style>
+    /* Estilos CSS para el diseño */
+    body {
+      font-family: Arial, sans-serif;
+    
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #666;
+      padding: 10px;
+    }
+    nav a {
+      color: #fa0303;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .image-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .image-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      margin: 10px;
+    }
+    .main-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+
+    <style>
+    /* Estilos CSS para el diseño */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #666;
+      padding: 10px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .image-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .image-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      margin: 10px;
+    }
+    .main-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    
+
+    <style>
+    /* Estilos CSS para el diseño */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #666;
+      padding: 10px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .image-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .image-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      margin: 10px;
+    }
+    .main-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .contact-form {
+      max-width: 500px;
+      margin: 0 auto;
+      font-size: 100%;
+    }
+    .contact-form label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    .contact-form input{
+     
+    }
+    .contact-form textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+    }
+    .contact-form button {
+      background-color: #666;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+    
+    <style>
+    /* Estilos CSS para el diseño */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #666;
+      padding: 10px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .image-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .image-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      margin: 10px;
+    }
+    .main-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .form-input {
+      color: red; /* Cambiar el color del texto a rojo */
+    }
+
+
+
+    <style>
+    /* Estilos CSS para el diseño */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #f70505;
+      padding: 10px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .main-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .image-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .image-grid img {
+      width: 100%;
+      height: auto;
+    }
+    .contact-form {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    .contact-form label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    .contact-form input,
+    .contact-form textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+    }
+    .contact-form button {
+      background-color: #666;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: rgb(237, 252, 173);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+    
+      body {
+        background-image: url("imagenes/fondo\ 1.jpg");
+        background-size: cover; /* Ajustar la imagen para que cubra todo el fondo */
+        background-repeat: no-repeat; /* Evitar que la imagen se repita */
+        background-position: center center; /* Centrar la imagen en el fondo */
+      }
+    
+      p {
+        color: #fcfcfd;
+        font-size: 35px;
+        line-height: 1.5;
+        margin-bottom: 0px;
+        text-align:start;
+      }
+    
+     
+  
+    
+      <style>
+      .image-container {
+        display: flex;
+        justify-content: center; /* Centrar horizontalmente las imágenes */
+        align-items: center; /* Centrar verticalmente las imágenes */
+        gap: 10px; /* Espacio entre las imágenes */
+      }
+      
+      .image-container img {
+        max-width: 100%; /* Ajustar las imágenes al ancho máximo del contenedor */
+        height: auto; /* Mantener la proporción de las imágenes */
+      }
+    </style>
+    
+
+      
+ 
+
+
+      
+
+ 
